@@ -1,6 +1,6 @@
 # Hi, I’m Lokendra 👋
 
-### Petroleum Engineer | Software Developer | Backend + AI Engineering | Real-Time Systems | Oil & Gas Tech###  
+### Petroleum Engineer | Software Developer | Backend + AI Engineering | Real-Time Systems | Oil & Gas Tech  
 📍 Houston, Texas
 
 I build **production-grade backend systems** and **AI-powered pipelines** that work reliably in the real world — especially where **real-time data**, **automation**, and **scalability** matter.
