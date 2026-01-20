@@ -96,9 +96,3 @@ I’m especially interested in building reliable AI systems — not just experim
 - Email: lss4dw@gmail.com
 - GitHub: https://github.com/lokendra2496
 
----
-
-## 📊 GitHub Stats
-![Lokendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokendra2496&show_icons=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokendra2496&layout=compact)
