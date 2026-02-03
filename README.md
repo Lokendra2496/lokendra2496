@@ -95,4 +95,5 @@ I’m especially interested in building reliable AI systems — not just experim
 ## 📫 Connect with me
 - Email: lss4dw@gmail.com
 - GitHub: https://github.com/lokendra2496
+- LinkedIn: https://linkedin.com/in/lokendra-solanki
 
