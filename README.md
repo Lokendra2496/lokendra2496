@@ -118,10 +118,3 @@ I'm especially interested in building reliable AI systems — not just experimen
 ✅ End-to-end AI system design (data → model → deployment → observability)  
 
 ---
-
-## 📌 Highlights from my work
-- Designed and built an **autonomous coding agent** with LangGraph, RAG, episodic memory (Mem0), and Neo4j knowledge graph that iteratively fixes failing tests
-- Built automation to monitor **hundreds of drilling rigs** and activate data streams without manual intervention  
-- Reduced analyst workflows from **24–48 hours → ~1–2 hours** per well using multi-threaded ingestion  
-- Designed real-time detectors for drilling state transitions using noisy WITSML/EDR signals  
-- Delivered backend services and internal tooling used daily by operations teams  
