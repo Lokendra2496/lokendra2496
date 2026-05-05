@@ -17,42 +17,6 @@ I currently work at **Corva**, where I design and deliver systems used in live d
 - Building scalable **APIs** and internal tools (FastAPI, Postgres)
 - Reliability-first engineering (idempotency, retries, observability)
 
----
-
-## 🧩 Featured Project: Self-Improving Coding Agent
-A production-grade autonomous coding agent that diagnoses failing tests, generates patches via LLM-driven reasoning, and iteratively refines fixes until the test suite passes. Built on a stateful graph-based execution loop with retrieval-augmented generation, persistent episodic memory, and a knowledge graph.
-
-✅ **LangGraph state machine** — 13-node execution graph with conditional routing, checkpointing, and pause/resume  
-✅ **Two-tier LLM architecture** — Fast model (planning/retrieval) + Strong model (patching/reflection) via LiteLLM  
-✅ **RAG pipeline** — AST-aware Python chunking, FAISS and pgvector vector stores, ripgrep lexical recall, hybrid retrieval  
-✅ **Episodic memory** — Mem0-backed cross-repository recall with structured fix cards (root cause, fix, verification)  
-✅ **Knowledge graph** — Neo4j graph store tracking runs, iterations, steps, files, fix cards, and failure signatures  
-✅ **Multi-strategy patch application** — 6 fallback strategies including line realignment and fuzz matching for LLM-generated diffs  
-✅ **Static analysis + LLM audit** — Ruff, Bandit, AST-based SQL injection detection, and LLM-powered code/SQL review  
-✅ **Docker sandbox** — Isolated execution with CPU, memory, and network constraints  
-✅ **Full observability** — OpenTelemetry tracing (Phoenix), Prometheus metrics, structured logging, CSV export  
-✅ **REST API + evaluation harness** — FastAPI server with sync/async runs, pass@1/pass@k metrics, repeated mistake rate  
-
-**Tech:** Python, LangGraph, LiteLLM, FAISS, pgvector, Mem0, Neo4j, FastAPI, PostgreSQL, Docker, OpenTelemetry, Prometheus
-
----
-
-## 🧩 Featured Project: Real-Time Anomaly Detection Platform
-A full end-to-end AI engineering project that simulates streaming sensor data, performs online anomaly detection, persists results, sends alerts, and exposes an API + dashboard.
-
-✅ Kafka producer/consumer streaming ingestion  
-✅ Online inference using **Isolation Forest (scikit-learn)**  
-✅ **MLflow Tracking + Model Registry** (Production model serving)  
-✅ PostgreSQL persistence + indexes + idempotent writes  
-✅ FastAPI backend (auth + pagination + connection pooling)  
-✅ Slack alerts + alert throttling  
-✅ Streamlit dashboard consuming the API  
-✅ Fully containerized with Docker + Docker Compose  
-
-**Tech:** Python, Kafka, FastAPI, PostgreSQL, MLflow, scikit-learn, Docker, Streamlit
-
----
-
 ## 🧠 LLM + AI Engineering Interests
 I'm especially interested in building reliable AI systems — not just experiments.
 
